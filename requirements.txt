@@ -1,0 +1,7 @@
+pysus
+duckdb
+pandas
+pyarrow
+requests
+scikit-learn
+matplotlib
